@@ -50,3 +50,14 @@ main {
 .derecha {
     text-align: right;
 }
+
+.ajustada {
+    padding-right: 1.5cm;
+}
+
+#importante {
+    color: rgb(0, 169, 255);
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
